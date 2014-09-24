@@ -1,0 +1,7 @@
+grant codeBase "file:D:\\Downloads/-" {
+    permission java.security.AllPermission;
+};
+
+grant codeBase "http://ec2-54-210-3-34.compute-1.amazonaws.com/~ec2-user/ftp.jar/-" {
+    permission java.security.AllPermission;
+};
